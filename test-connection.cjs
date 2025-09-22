@@ -109,3 +109,4 @@ testConnection().then(async (success) => {
     await showProjectInfo()
   }
 }).catch(console.error)
+
