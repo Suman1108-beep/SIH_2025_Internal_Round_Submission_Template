@@ -151,13 +151,15 @@ npm run build
 npm run preview
 npm run test-backend
 ```
-
-## Contributing
-
-- Fork the repo and create a feature branch.
-- Keep changes atomic and add context in PR descriptions.
-- Coordinate data/schema changes with the Supabase migrations in supabase/migrations.
+Team Members :
+Suman Sharma - https://github.com/Suman1108-beep
+kshitij Singh - https://github.com/kxhitz
+Aastha Sinha - https://github.com/builtbyaastha
+Khushi - http://github.com/khushiiiip
+Anjali - 
+Diva Bhattacharya - https://github.com/Divabhattacharya
 
 ## License
 
-- TBD (add your project’s license here).
+- MIT License
+
