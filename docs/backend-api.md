@@ -161,6 +161,7 @@ POST /functions/v1/asset-mapping
 }
 \`\`\`
 
+
 **Response:**
 \`\`\`json
 {
