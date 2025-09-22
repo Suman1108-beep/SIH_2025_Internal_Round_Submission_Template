@@ -151,15 +151,16 @@ npm run build
 npm run preview
 npm run test-backend
 ```
-Team Members :
-Suman Sharma - https://github.com/Suman1108-beep
-kshitij Singh - https://github.com/kxhitz
-Aastha Sinha - https://github.com/builtbyaastha
-Khushi - http://github.com/khushiiiip
-Anjali - 
-Diva Bhattacharya - https://github.com/Divabhattacharya
+## Team Members :
+- Suman Sharma - https://github.com/Suman1108-beep
+- kshitij Singh - https://github.com/kxhitz
+- Aastha Sinha - https://github.com/builtbyaastha
+- Khushi - http://github.com/khushiiiip
+- Anjali - 
+- Diva Bhattacharya - https://github.com/Divabhattacharya
 
 ## License
 
 - MIT License
+
 
