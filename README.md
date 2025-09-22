@@ -1,4 +1,7 @@
-# 🌲 FRA DSS Platform - Forest Rights Act Decision Support System
+<div align="center">
+
+# 🌲 FRA DSS Platform
+## Forest Rights Act Decision Support System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
@@ -6,9 +9,44 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-4+-orange.svg)](https://vitejs.dev/)
 
-> **Transforming Forest Rights Recognition in India through AI-Powered Digital Governance**
+**🌍 Transforming Forest Rights Recognition in India through AI-Powered Digital Governance**
 
-An innovative AI-powered digital ecosystem that revolutionizes the implementation of India's Forest Rights Act of 2006, converting bureaucratic inefficiency into transparent, data-driven governance that directly empowers forest-dwelling communities.
+*An innovative AI-powered digital ecosystem that revolutionizes the implementation of India's Forest Rights Act of 2006, converting bureaucratic inefficiency into transparent, data-driven governance that directly empowers forest-dwelling communities.*
+
+[🚀 **Get Started**](#-quick-start-guide) • [📚 **Documentation**](#-project-structure) • [🌟 **Features**](#-key-innovations) • [🛠️ **Tech Stack**](#%EF%B8%8F-technology-stack)
+
+</div>
+
+---
+
+## 📜 Table of Contents
+
+- [🎯 Problem Statement](#-problem-statement)
+- [💡 Our Solution](#-our-solution)
+- [🚀 Key Innovations](#-key-innovations)
+- [🌟 Impact & Benefits](#-impact--benefits)
+- [🛠️ Technology Stack](#%EF%B8%8F-technology-stack)
+- [📋 Prerequisites](#-prerequisites)
+- [🚀 Quick Start Guide](#-quick-start-guide)
+- [⚙️ Environment Configuration](#%EF%B8%8F-environment-configuration)
+- [📁 Project Structure](#-project-structure)
+- [🎮 Available Scripts](#-available-scripts)
+- [🌐 Application Features](#-application-features)
+- [🐳 Docker Deployment](#-docker-deployment)
+- [🌍 Production Deployment](#-production-deployment)
+- [🤝 Contributing](#-contributing)
+- [📚 API Documentation](#-api-documentation)
+- [🔒 Security](#-security)
+- [🐛 Troubleshooting](#-troubleshooting)
+- [📊 Performance Monitoring](#-performance-monitoring)
+- [📱 Browser Support](#-browser-support)
+- [📄 License](#-license)
+- [🏆 Recognition & Awards](#-recognition--awards)
+- [👥 Team](#-team)
+- [📢 Support & Contact](#-support--contact)
+- [🙏 Acknowledgments](#-acknowledgments)
+- [🔮 Roadmap](#-roadmap)
+- [📊 Project Stats](#-project-stats)
 
 ---
 
