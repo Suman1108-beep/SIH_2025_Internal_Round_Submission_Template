@@ -34,14 +34,23 @@ The **FRA DSS Platform** is a comprehensive AI-powered digital ecosystem that tr
 
 ```mermaid
 graph TD
-    A[Paper Records] --> B[AI-Powered OCR + NER]
-    B --> C[Structured National Database]
-    C --> D[Interactive FRA Atlas]
-    C --> E[Decision Support System]
-    D --> F[Real-time Mapping]
-    E --> G[Automated Scheme Recommendations]
-    F --> H[Community Empowerment]
+    A["📄 Paper Records"] --> B["🤖 AI-Powered OCR + NER"]
+    B --> C["💾 Structured National Database"]
+    C --> D["🗺️ Interactive FRA Atlas"]
+    C --> E["🎯 Decision Support System"]
+    D --> F["📍 Real-time Mapping"]
+    E --> G["🔄 Automated Scheme Recommendations"]
+    F --> H["🏘️ Community Empowerment"]
     G --> H
+    
+    style A fill:#ffeb3b
+    style B fill:#2196f3
+    style C fill:#4caf50
+    style D fill:#ff9800
+    style E fill:#9c27b0
+    style F fill:#00bcd4
+    style G fill:#f44336
+    style H fill:#8bc34a
 ```
 
 ---
@@ -350,7 +359,10 @@ npm run test:e2e     # Run end-to-end tests
 
 ```bash
 # Clone and navigate
-git clone https://github.com/sumansharmabv/fra-dss-platform.git
+git clone https://github.com/Suman1108-beep/fra-dss-platform.git
+
+
+
 cd fra-dss-platform
 
 # Start all services
@@ -542,7 +554,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👥 **Team**
 
 **Project Lead & Full-Stack Developer**
-- **Suman Sharma** - [GitHub](https://github.com/sumansharmabv) | [LinkedIn](https://linkedin.com/in/sumansharmabv)
+- **Suman Sharma** - [GitHub](https://github.com/Suman1108-beep) | [LinkedIn](https://linkedin.com/in/sumansharmabv)
 
 **Contributing Organizations**
 - **Ministry of Tribal Affairs, Government of India**
@@ -556,7 +568,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **📧 Email**: suman.sharma@fraatlas.gov.in
 - **💬 Discord**: [Join our community](https://discord.gg/fra-dss)
 - **🐦 Twitter**: [@FRADSSPlatform](https://twitter.com/FRADSSPlatform)
-- **📋 Issues**: [GitHub Issues](https://github.com/sumansharmabv/fra-dss-platform/issues)
+- **📋 Issues**: [GitHub Issues](https://github.com/Suman1108-beep/fra-dss-platform/issues)
 
 ---
 
@@ -591,10 +603,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📊 **Project Stats**
 
-![GitHub stars](https://img.shields.io/github/stars/sumansharmabv/fra-dss-platform?style=social)
-![GitHub forks](https://img.shields.io/github/forks/sumansharmabv/fra-dss-platform?style=social)
-![GitHub issues](https://img.shields.io/github/issues/sumansharmabv/fra-dss-platform)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sumansharmabv/fra-dss-platform)
+![GitHub stars](https://img.shields.io/github/stars/Suman1108-beep/fra-dss-platform?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Suman1108-beep/fra-dss-platform?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Suman1108-beep/fra-dss-platform)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Suman1108-beep/fra-dss-platform)
 
 ---
 
@@ -604,7 +616,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ⭐ **Star this repository if it helped you!**
 
-[🏠 Home](https://fraatlas.gov.in) • [📚 Docs](https://docs.fraatlas.gov.in) • [🚀 Demo](https://demo.fraatlas.gov.in) • [💬 Community](https://community.fraatlas.gov.in)
+[🏠 Live Demo](https://github.com/Suman1108-beep/fra-dss-platform) • [📚 Documentation](https://github.com/Suman1108-beep/fra-dss-platform#-quick-start-guide) • [🚀 Features](https://github.com/Suman1108-beep/fra-dss-platform#-key-innovations) • [💬 Issues](https://github.com/Suman1108-beep/fra-dss-platform/issues)
 
-</div>#   f i n a l _ s i h _ h a c k a t h o n  
+</div>
  
