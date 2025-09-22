@@ -1,3 +1,4 @@
+
 import { supabase, FraClaim, AssetMap } from './supabaseClient'
 
 export interface GovernmentScheme {
