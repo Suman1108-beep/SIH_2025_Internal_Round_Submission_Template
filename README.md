@@ -5,6 +5,11 @@ The Forest Rights Act of 2006 was meant to give land rights to millions of fores
 This is more than just poor administration—it’s about real people left without legal rights, stuck in poverty and insecurity. The answer isn’t simply working harder; it’s about finding smarter solutions.
 
 We’ve developed the FRA DSS Platform, an AI-powered digital ecosystem that transforms this entire process. Think of it as a “living digital twin” of India’s forest communities.
+Demo Video - 
+
+
+https://github.com/user-attachments/assets/538faea3-0db3-4d10-8353-a7cc1de50e6b
+
 
 ## What the Platform Does
 
@@ -162,5 +167,6 @@ npm run test-backend
 ## License
 
 - MIT License
+
 
 
